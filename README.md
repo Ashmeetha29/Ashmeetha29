@@ -1,15 +1,14 @@
-# 👋 Hey there! I'm Ashmeetha shree N  
-🎓 B.E. CSE @ Kumaraguru College  
-🎨 Junior Design Lead @ GDG | UI/UX Enthusiast  
-💻 Learning Web Development | Open to Internships  
-🌱 Eager to Build, Design & Explore New Tech
+# Hey, I'm Ashmeetha Shree N 👋
 
-### 🌟 Tech I'm Learning
-- HTML | CSS | JavaScript | Python | Java  
-- MySQL | MongoDB  
-- Figma | Canva | UI/UX Principles
+🎓 B.E. CSE @ Kumaraguru College of Technology (2023–2027)
+💻 Full-Stack Developer | React · Node.js · Express.js · MongoDB
+🎨 Design & Content Lead @ GDG on Campus KCT
+🔨 Built civic-tech and e-commerce apps · Interned @ Dimaag AI
+🌱 Open to SDE / Full-Stack internships
 
-<!---
-Ashmeetha29/Ashmeetha29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases:** MongoDB, MySQL, SQLite, PostgreSQL
+- **Design:** Figma, Canva
+- **Tools:** Git, GitHub, AWS
